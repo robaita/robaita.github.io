@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkRobaita=self.webpackChunkRobaita||[]).push([[453],{731:function(e,t,n){n.r(t);var l=n(6540),a=n(3328);t.default=e=>l.createElement(a.A,null,l.createElement("h1",null,"404 - Page Not Found"),l.createElement("p",null,"Unfortunately we couldn't find what you were looking for :("))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-53c49be1a22e70f393e7.js.map
